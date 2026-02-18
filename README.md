@@ -1,4 +1,4 @@
-🚀 Overview
+**🚀 Overview**
 
 Angie49 is a powerful personal AI assistant that operates directly inside Telegram, supporting both voice and text interactions.
 
